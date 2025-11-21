@@ -46,7 +46,7 @@ expense_tracker/
 
 Download or clone this repository:
 
-git clone https://github.com/mehnazzhaquee/expense-tracker.git
+git clone https://github.com/mehnazzhaquee-alt/Personal-Expense-Tracker
 
 
 Navigate to the folder:
@@ -79,8 +79,6 @@ Enter your choice:
 🧠 What I Learned
 
 Basic Python programming
-
-Working with files (read/write JSON)
 
 Designing menu-based applications
 
